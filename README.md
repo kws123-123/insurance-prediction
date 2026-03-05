@@ -23,5 +23,6 @@ Simple linear regression project that predicts medical insurance costs using age
 - pandas, numpy
 - matplotlib, seaborn
 - scikit-learn
+- Dataset: Sourced from [GitHub - insurance.csv](https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv)  
 
 Learning project – intermediate AI

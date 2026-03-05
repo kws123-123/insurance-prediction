@@ -7,7 +7,9 @@ Simple linear regression project that predicts medical insurance costs using age
 # Most important finding
 
 **Smoking has by far the strongest effect**  
-→ smokers pay approximately $23651 per year
+- smokers pay approximately $23651 per year
+- Age, BMI and number of children have much smaller effects on insurance cost compared to smoking
+- Region and sex barely influence the insurance charges in this dataset.
 
 # What was done
 
